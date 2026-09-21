@@ -17,14 +17,14 @@ const SITE_DATA = {
   profile: {
     name: "Prashant Rawat",
     initials: "PR",
-    photo: "", // e.g. "photo.jpg" — put the image file in this folder
+    photo: "Prashant.jpeg", // e.g. "photo.jpg" — put the image file in this folder
     role: "Cloud & DevOps Engineer",
     location: "Noida, Uttar Pradesh, India",
     tagline: "From Economics & Political Science to AWS & Kubernetes — building in public.",
     summary: "Proactive Cloud and DevOps fresher with hands-on experience in AWS infrastructure automation, CI/CD pipelines, and containerized application deployment. Strong foundation in Infrastructure as Code (Terraform), Linux environments, and scripting — transitioning into cloud after a Bachelor's in Arts (Economics, History, Political Science).",
     email: "prashantrawat733@gmail.com",
     phone: "+91 7300762003",
-    resumeFile: "resume.pdf", // put your resume PDF in this folder with this name
+    resumeFile: "Prashant_Rawat_Resume.pdf", // put your resume PDF in this folder with this name
     socials: {
       linkedin: "#",
       github: "#",
